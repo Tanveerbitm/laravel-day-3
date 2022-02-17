@@ -1,0 +1,62 @@
+.my-caption{
+    background-color: rgba(0,0,0,0.4);
+    bottom: 100px;
+    border-radius: 10px;
+}
+.h-250{
+    height:250px;
+}
+.h-300{
+    height:300px;
+}
+.h-50{
+    height:50px;
+}
+.h-80{
+    height:60px;
+}
+.h-450{
+    height:450px;
+}
+.h-165{
+    height:165px;
+}
+.p-sticky{
+    position: sticky;
+    top:0;
+    z-index: 10;
+}
+.text-size-10{
+    font-size: 1rem;
+}
+.text-size-9{
+    font-size: 0.9rem;
+}
+.text-size-95{
+    font-size: 0.95rem;
+}
+.text-size-7{
+    font-size: 0.7rem;
+}
+.text-size-5{
+    font-size: 0.5rem;
+}
+
+.c-color1{
+    background-color: #d7dbd8;
+}
+.c-w100{width: 100px;}
+.c-w200{width: 200px;}
+.c-w300{width: 300px;}
+.c-w400{width: 400px;}
+.c-w250{width: 250px;}
+.c-w350{width: 350px;}
+.c-wvw{width: 100%;}
+.nav-color{
+    background-color: #EFEFEF;
+}
+.banner{
+    background-image:url(https://bitm.org.bd/assets/frontend/images/banner/banner01.jpg)
+}
+
+.h-300{ height: 300px; }
